@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+build/
+bin/
+
+# Compiled binaries
+*.exe
+*.dll
+*.o
+*.obj
